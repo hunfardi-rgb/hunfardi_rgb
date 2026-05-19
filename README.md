@@ -2,7 +2,7 @@
 
 ### Full-Stack Web Developer | Digital Content Strategist | UI/UX Enthusiast
 
-I am a passionate Full-Stack Developer and CS student focused on building scalable web applications and digital products. I bridge the gap between complex backend logic and intuitive frontend design.
+I am a passionate Full-Stack Developer and IT student focused on building scalable web applications and digital products. I bridge the gap between complex backend logic and intuitive frontend design.
 
 ---
 
